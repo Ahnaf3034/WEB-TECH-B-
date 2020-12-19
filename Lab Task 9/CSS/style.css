@@ -1,0 +1,135 @@
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #1c830e;
+    border: none;
+    border-radius: 5px;
+  }
+  .btn1 {
+    padding: 10px;
+    font-size: 19px;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+  }
+  .tbl1{
+  background-color: cyan;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  }
+
+.head1{
+  padding: 10px;
+  font-size: 40px;
+  background-color:white;
+  color: #185a4f;
+}
+.head2 {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #67a05f;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 15px;
+}
+.foot1{
+  padding: 10px;
+  font-size: 25px;
+  background-color:white;
+  color: #185a4f;
+}
+.cp{
+  padding: 10px;
+  font-size: 15px;
+  background-color:black;
+  color: #8bbd18;
+}
+.cp1{
+  padding: 10px;
+  font-size: 30px;
+  background-color:black;
+  color: #8bbd18;
+}
+.err {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align:center;
+}
+.hp1{
+  padding: 10px;
+  font-size: 18px;
+  text-align:right; 
+  color:rgb(15, 175, 23); 
+  background-color:white;"
+}
+.hp2{
+    padding: 10px;
+    font-size: 18px;
+    text-align:right; 
+    color:red; 
+    background-color:white;"
+}
+.inputb {
+  margin: 10px 0px 10px 0px;
+  display: block;
+  text-align: center;
+  margin: 3px;
+  color: black;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.li{
+  padding: 10px;
+  font-size: 20px;
+  display: inline-block;
+  background-color:white;
+  color:red;
+}
+.tb{
+  padding: 10px;
+  font-size: 15px;
+  background-color:rgb(29, 43, 235);
+  color:white;
+}
+.fs1{
+  padding: 20px;
+  text-align:center;
+  border: black 4px solid;
+  background-color:yellow;
+  height: 500px;
+  width: 700px;
+  margin: auto;
+}
+
+.fs2{
+  padding: 20px;
+  text-align:center;
+  border: black 4px solid;
+  background-color: rgb(204, 240, 44);
+  height: 350px;
+  width: 700px;
+  margin: auto;
+}
+
+.fs3{
+  padding: 20px;
+  text-align:center;
+  border: black 4px solid;
+  background-color:rgb(56, 194, 187);
+  height: 350px;
+  width: 700px;
+  margin: auto;
+}
